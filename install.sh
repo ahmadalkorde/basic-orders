@@ -157,3 +157,5 @@ pkg install mtools
 
 pip install pip
 pip install --upgrade pip
+pip install speedtest-cli
+speedtest
